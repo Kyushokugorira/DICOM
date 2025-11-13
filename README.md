@@ -48,6 +48,16 @@ CTなどのDICOM画像（Axial）と、それから再構成したMPR断面（Sa
         * **MPR:** 再構成断面（右側）のスライス位置を動かします。
         * **Sagittal/Coronal:** 右側に表示する断面の向きを切り替えます。
 
+## 📸 スクリーンショット
+
+* **Sagittal表示時:**
+    
+images/Sagittal.png
+
+* **Coronal表示時:**
+    
+iamges/Coronal.png
+
 ## 📝 ライセンス
 
 MIT License
