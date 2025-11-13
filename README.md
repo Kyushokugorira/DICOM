@@ -52,11 +52,11 @@ CTなどのDICOM画像（Axial）と、それから再構成したMPR断面（Sa
 
 * **Sagittal表示時:**
     
-images/Sagittal.png
+![Sagittal表示時の画面](images/Sagittal.png)
 
 * **Coronal表示時:**
     
-iamges/Coronal.png
+![Coronal表示時の画面](iamges/Coronal.png)
 
 ## 📝 ライセンス
 
