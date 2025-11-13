@@ -56,7 +56,7 @@ CTなどのDICOM画像（Axial）と、それから再構成したMPR断面（Sa
 
 * **Coronal表示時:**
     
-![Coronal表示時の画面](iamges/Coronal.png)
+![Coronal表示時の画面](images/Coronal.png)
 
 ## 📝 ライセンス
 
